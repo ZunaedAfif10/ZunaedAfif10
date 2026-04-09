@@ -3,15 +3,42 @@
 <h1 align="center">Hi 👋, I'm Zunaed Afif</h1>
 <h3 align="center">Passionate Web Developer in Progress who enjoys building modern, responsive, and user-friendly websites. I work with HTML, CSS, JavaScript, React, and Tailwind CSS, and I’m always exploring new tools and technologies to improve my workflow.Dedicated to continuous learning, growing my skills, and becoming a professional developer who creates meaningful digital experiences.</h3>
 
-- 🌱 I’m currently learning **Next.js**
+<hr style="border: 1px solid gray;">
 
-- 💬 Ask me about **react**
+<table>
+<tr>
+<td width="60%">
 
-- 📫 How to reach me **zunaedrahman7@gmail.com**
+### 👨‍💻 About Me  
+
+- 💻 I’m a **Front End Web Developer**  
+
+- ⚡ Working with **HTML, CSS, JavaScript, React & Tailwind CSS**  
+
+- 🚀 Currently learning **Next.js & Modern Web Development**
+- 
+- 📚 Focused on building **responsive & user-friendly websites**   
+
+
+### 🌟 What I Love  
+
+- 💡 Exploring new technologies  
+
+- 🛠 Building real-world projects  
+
+- 📈 Learning & improving every day  
+
+</td>
+
+<td width="40%">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+</td>
+</tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zunaed rahman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zunaed rahman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/zunaedafif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zunaed rahman" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -41,9 +41,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zunaedafif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zunaed rahman" height="30" width="40" /></a>
-<a href="mailto:zunaedrahman7@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
 </p>
 
 <hr style="border: 1px solid gray;">

@@ -1,3 +1,5 @@
+<img width="1173" height="449" alt="Screenshot 2026-04-09 224928" src="https://github.com/user-attachments/assets/7bc2d877-7603-475d-b5cf-455c6028905b" />
+
 <h1 align="center">Hi 👋, I'm Zunaed Afif</h1>
 <h3 align="center">Passionate Web Developer in Progress who enjoys building modern, responsive, and user-friendly websites. I work with HTML, CSS, JavaScript, React, and Tailwind CSS, and I’m always exploring new tools and technologies to improve my workflow.Dedicated to continuous learning, growing my skills, and becoming a professional developer who creates meaningful digital experiences.</h3>
 

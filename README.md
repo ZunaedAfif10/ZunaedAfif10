@@ -1,5 +1,7 @@
+<p>
 <img width="1173" height="449" alt="Screenshot 2026-04-09 224928" src="https://github.com/user-attachments/assets/7bc2d877-7603-475d-b5cf-455c6028905b" />
-<br>
+</p>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&pause=1000&color=1DF738&width=435&lines=Hi,+I+am+ZUNAED+AFIF" alt="Typing SVG" /></a>
 </p>
@@ -41,6 +43,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zunaedafif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zunaed rahman" height="30" width="40" /></a>
+<a href="mailto:zunaedrahman7@gmail.com" target="blank">
+<img width="2134" height="2134" alt="—Pngtree—gmail inbox logo with a_15595991" src="https://github.com/user-attachments/assets/dcd45ecc-5a73-4d61-8869-dbbd6102aa92" />
+</a>
 </p>
 
 <hr style="border: 1px solid gray;">

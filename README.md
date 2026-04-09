@@ -43,8 +43,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/zunaedafif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zunaed rahman" height="30" width="40" /></a>
-<a href="mailto:zunaedrahman7@gmail.com" target="blank">
-<img width="2134" height="2134" alt="—Pngtree—gmail inbox logo with a_15595991" src="https://github.com/user-attachments/assets/dcd45ecc-5a73-4d61-8869-dbbd6102aa92" />
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=zunaedrahman7@gmail.com" target="blank">
+<img height="30" width="40" alt="—Pngtree—gmail inbox logo with a_15595991" src="https://github.com/user-attachments/assets/dcd45ecc-5a73-4d61-8869-dbbd6102aa92" />
 </a>
 </p>
 

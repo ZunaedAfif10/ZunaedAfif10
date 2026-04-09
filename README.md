@@ -66,6 +66,6 @@
     currentlyLearning: ["Next.js", "Modern Web Development"]
   },
   tools: ["VS Code", "Git", "GitHub"],
-  communication:"English"
+  communication:"English",
   currentFocus: "Improving React skills & diving deep into Next.js 🚀"
 };
